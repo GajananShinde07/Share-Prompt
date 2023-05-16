@@ -1,0 +1,8 @@
+.env file has :
+NEXTAUTH_URL=http://localhost:3000
+NEXTAUTH_URL_INTERNAL=http://localhost:3000
+NEXTAUTH_SECRET=
+
+for NEXTAUTH_SECRET key goto website: https://www.cryptool.org/en/cto/openssl
+and type command: openssl rand -base64 32
+it will generate random key, copy and paste in .env file

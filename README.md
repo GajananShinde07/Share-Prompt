@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+By using the Share Prompt Project, content creators can here convey their thoughts. This application was made with Next.js Framework
 
 ## Getting Started
 
